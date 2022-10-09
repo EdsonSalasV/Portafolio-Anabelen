@@ -1,0 +1,24 @@
+:root{
+    --pink-light: #fff3cd;
+    --pink-dark: #923c67;
+    --red-dark: #800040;
+    --pink-medium: #ffe2ff;
+}
+
+body{
+    font-family: 'Satisfy', cursive;
+    
+}
+
+nav{
+    background-color: var(--pink-light);
+    font-size: 2rem ;
+    
+}
+
+#Proyectos{
+    background-color: var(--pink-light);
+}
+
+
+
