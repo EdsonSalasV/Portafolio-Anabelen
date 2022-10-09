@@ -7,18 +7,17 @@
 
 body{
     font-family: 'Satisfy', cursive;
+    background-color: var(--pink-light);
     
 }
 
 nav{
-    background-color: var(--pink-light);
     font-size: 2rem ;
     
 }
 
-#Proyectos{
-    background-color: var(--pink-light);
+hr {
+    color: var(--red-dark);
+    height: 20px;
+    background-color: var(--red-dark);
 }
-
-
-
